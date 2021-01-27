@@ -1,0 +1,10 @@
+name: ideolotab
+version: ${project.version}
+main: com.vrx.ideolotab.Ideolotab
+api-version: 1.16
+authors: [ VRX ]
+description: Custom tab messages
+commands:
+  x-ray:
+    description: Pokazuje ile masz iq xD
+    usage: /<command>
